@@ -28,6 +28,7 @@ const AddUser = () => {
     },[])
     return (
                 <div className="container-mx">
+                    
             <div className="main-body" style={{marginTop:"50px",textAlign:"center"}}>
                     <div className="col-md-9">
                         <div className="card mb-3">
